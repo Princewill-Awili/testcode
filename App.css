@@ -1,0 +1,10 @@
+.banner{
+    border: 1px solid black;
+}
+
+.closer{
+    text-align: right;
+    padding-left:90% ;
+    cursor: pointer;
+    color: red;
+}
